@@ -11,4 +11,4 @@
 - 2011-2012 Designer, Kareo
 - 26/05/2012 Married Suzy
 - 2012-2013 Designer, Runnable
-- 2013- Designer, Mailgun
+- 2013-~ Designer, Mailgun
